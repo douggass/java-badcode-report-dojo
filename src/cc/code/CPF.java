@@ -2,7 +2,7 @@ package cc.code;
 
 public class CPF {
 
-   static public boolean CPF (String strCpf )
+	public static boolean CPF (String strCpf )
    {
       int     d1, d2;
       int     digito1, digito2, resto;
